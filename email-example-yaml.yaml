@@ -1,0 +1,5 @@
+name: "<name>"
+sender: "<email>"
+recipient: ["<recipient1>", "<recipient2>...",]
+subject: "<subject>"
+body: "<body>"
