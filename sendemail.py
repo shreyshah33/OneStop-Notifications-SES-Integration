@@ -14,6 +14,7 @@ print(SENDER)
 RECIPIENT = doc['recipient']
 print(RECIPIENT)
 
+#can be replaced by any region you're in
 AWS_REGION = "us-west-2"
 
 # The subject line for the email.
